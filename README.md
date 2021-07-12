@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josefinakej
 - 👀 I’m interested in Climate Analysis Tools as Grasshopper-Rhino
-- 🌱 I’m currently learning ...Climate Responsive Design- Sustainaible Infraestructures
+- 🌱 I’m currently learning ...Climate Responsive Design- Sustainaible Infrastructures
 - 💞️ I’m looking to collaborate on ...visionary projects to help humans to live more integrated with nature 
 - 📫 How to reach me ...jostorres.kej@gmail.com
 
